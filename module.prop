@@ -1,0 +1,6 @@
+id=RmSSRMWarning
+name=Remove SSRM Warning
+version=1.0
+versionCode=1
+author=Oc
+description=使用修改过的APK文件替换系统内的，去除系统启动之后的SSRM Warning弹窗
